@@ -1,0 +1,329 @@
+[
+  {
+    "name": "Instability in the Northern Triangle",
+    "region": "Americas",
+    "type": "Political Instability",
+    "us_impact": "Significant",
+    "status": "Unchanging",
+    "countries": [
+      "SV",
+      "GT",
+      "HN"
+    ],
+    "url": "https://www.cfr.org/global-conflict-tracker/conflict/instability-northern-triangle"
+  },
+  {
+    "name": "Instability in Haiti",
+    "region": "Americas",
+    "type": "Political Instability",
+    "us_impact": "Significant",
+    "status": "Worsening",
+    "countries": [
+      "HT"
+    ],
+    "url": "https://www.cfr.org/global-conflict-tracker/conflict/instability-haiti"
+  },
+  {
+    "name": "Civil War in Sudan",
+    "region": "Middle East and North Africa",
+    "type": "Civil War",
+    "us_impact": "Limited",
+    "status": "Worsening",
+    "countries": [
+      "SD"
+    ],
+    "url": "https://www.cfr.org/global-conflict-tracker/conflict/civil-war-sudan"
+  },
+  {
+    "name": "Violent Extremism in the Sahel",
+    "region": "Middle East and North Africa",
+    "type": "Transnational Terrorism",
+    "us_impact": "Limited",
+    "status": "Worsening",
+    "countries": [
+      "BF",
+      "TD",
+      "ML",
+      "NE",
+      "NG"
+    ],
+    "url": "https://www.cfr.org/global-conflict-tracker/conflict/violent-extremism-sahel"
+  },
+  {
+    "name": "Confrontation Over Taiwan",
+    "region": "Asia",
+    "type": "Interstate",
+    "us_impact": "Critical",
+    "status": "Worsening",
+    "countries": [
+      "CN",
+      "TW"
+    ],
+    "url": "https://www.cfr.org/global-conflict-tracker/conflict/confrontation-over-taiwan"
+  },
+  {
+    "name": "Conflict in Ethiopia",
+    "region": "Sub-Saharan Africa",
+    "type": "Political Instability",
+    "us_impact": "Limited",
+    "status": "Worsening",
+    "countries": [
+      "ET"
+    ],
+    "url": "https://www.cfr.org/global-conflict-tracker/conflict/conflict-ethiopia"
+  },
+  {
+    "name": "Iran's Conflict With Israel and the United States",
+    "region": "Middle East and North Africa",
+    "type": "Interstate",
+    "us_impact": "Critical",
+    "status": "Worsening",
+    "countries": [
+      "IR"
+    ],
+    "url": "https://www.cfr.org/global-conflict-tracker/conflict/iran-conflict-israel-united-states"
+  },
+  {
+    "name": "U.S. Confrontation With Venezuela",
+    "region": "Americas",
+    "type": "Interstate",
+    "us_impact": "Limited",
+    "status": "Unchanging",
+    "countries": [
+      "VE"
+    ],
+    "url": "https://www.cfr.org/global-conflict-tracker/conflict/us-confrontation-venezuela"
+  },
+  {
+    "name": "Conflict in Yemen and the Red Sea",
+    "region": "Middle East and North Africa",
+    "type": "Transnational Terrorism",
+    "us_impact": "Significant",
+    "status": "Worsening",
+    "countries": [
+      "YE"
+    ],
+    "url": "https://www.cfr.org/global-conflict-tracker/conflict/conflict-yemen-red-sea"
+  },
+  {
+    "name": "Conflict Between India and Pakistan",
+    "region": "Asia",
+    "type": "Interstate",
+    "us_impact": "Significant",
+    "status": "Worsening",
+    "countries": [
+      "IN",
+      "PK"
+    ],
+    "url": "https://www.cfr.org/global-conflict-tracker/conflict/conflict-between-india-pakistan"
+  },
+  {
+    "name": "Civil Conflict in Libya",
+    "region": "Middle East and North Africa",
+    "type": "Civil War",
+    "us_impact": "Limited",
+    "status": "Unchanging",
+    "countries": [
+      "LY"
+    ],
+    "url": "https://www.cfr.org/global-conflict-tracker/conflict/civil-conflict-libya"
+  },
+  {
+    "name": "Conflict With Al-Shabaab in Somalia",
+    "region": "Sub-Saharan Africa",
+    "type": "Transnational Terrorism",
+    "us_impact": "Limited",
+    "status": "Unchanging",
+    "countries": [
+      "SO"
+    ],
+    "url": "https://www.cfr.org/global-conflict-tracker/conflict/conflict-al-shabaab-somalia"
+  },
+  {
+    "name": "Israeli-Palestinian Conflict",
+    "region": "Middle East and North Africa",
+    "type": "Territorial Dispute",
+    "us_impact": "Significant",
+    "status": "Worsening",
+    "countries": [
+      "IL",
+      "PS"
+    ],
+    "url": "https://www.cfr.org/global-conflict-tracker/conflict/israeli-palestinian-conflict"
+  },
+  {
+    "name": "Criminal Violence in Mexico",
+    "region": "Americas",
+    "type": "Criminal Violence",
+    "us_impact": "Significant",
+    "status": "Unchanging",
+    "countries": [
+      "MX"
+    ],
+    "url": "https://www.cfr.org/global-conflict-tracker/conflict/criminal-violence-mexico"
+  },
+  {
+    "name": "Conflict Between Turkey and Armed Kurdish Groups",
+    "region": "Middle East and North Africa",
+    "type": "Territorial Dispute",
+    "us_impact": "Limited",
+    "status": "Improving",
+    "countries": [
+      "IQ",
+      "SY",
+      "TR"
+    ],
+    "url": "https://www.cfr.org/global-conflict-tracker/conflict/conflict-turkey-armed-kurdish-groups"
+  },
+  {
+    "name": "Instability in Iraq",
+    "region": "Middle East and North Africa",
+    "type": "Political Instability",
+    "us_impact": "Limited",
+    "status": "Worsening",
+    "countries": [
+      "IQ"
+    ],
+    "url": "https://www.cfr.org/global-conflict-tracker/conflict/instability-iraq"
+  },
+  {
+    "name": "Instability in South Sudan",
+    "region": "Sub-Saharan Africa",
+    "type": "Political Instability",
+    "us_impact": "Limited",
+    "status": "Unchanging",
+    "countries": [
+      "SS"
+    ],
+    "url": "https://www.cfr.org/global-conflict-tracker/conflict/instability-south-sudan"
+  },
+  {
+    "name": "War in Ukraine",
+    "region": "Europe and Eurasia",
+    "type": "Interstate",
+    "us_impact": "Critical",
+    "status": "Worsening",
+    "countries": [
+      "RU",
+      "UA"
+    ],
+    "url": "https://www.cfr.org/global-conflict-tracker/conflict/war-ukraine"
+  },
+  {
+    "name": "North Korea Crisis",
+    "region": "Asia",
+    "type": "Interstate",
+    "us_impact": "Critical",
+    "status": "Unchanging",
+    "countries": [
+      "KP"
+    ],
+    "url": "https://www.cfr.org/global-conflict-tracker/conflict/north-korea-crisis"
+  },
+  {
+    "name": "Civil War in Myanmar",
+    "region": "Asia",
+    "type": "Civil War",
+    "us_impact": "Limited",
+    "status": "Worsening",
+    "countries": [
+      "MM"
+    ],
+    "url": "https://www.cfr.org/global-conflict-tracker/conflict/civil-war-myanmar"
+  },
+  {
+    "name": "Territorial Disputes in the South China Sea",
+    "region": "Asia",
+    "type": "Territorial Dispute",
+    "us_impact": "Critical",
+    "status": "Unchanging",
+    "countries": [
+      "BN",
+      "CN",
+      "ID",
+      "MY",
+      "PH",
+      "TW",
+      "VN"
+    ],
+    "url": "https://www.cfr.org/global-conflict-tracker/conflict/territorial-disputes-south-china-sea"
+  },
+  {
+    "name": "Conflict in the Democratic Republic of Congo",
+    "region": "Sub-Saharan Africa",
+    "type": "Political Instability",
+    "us_impact": "Limited",
+    "status": "Worsening",
+    "countries": [
+      "CD"
+    ],
+    "url": "https://www.cfr.org/global-conflict-tracker/conflict/violence-democratic-republic-congo"
+  },
+  {
+    "name": "Conflict in the Central African Republic",
+    "region": "Sub-Saharan Africa",
+    "type": "Civil War",
+    "us_impact": "Limited",
+    "status": "Unchanging",
+    "countries": [
+      "CF"
+    ],
+    "url": "https://www.cfr.org/global-conflict-tracker/conflict/conflict-central-african-republic"
+  },
+  {
+    "name": "Conflict With Hezbollah in Lebanon",
+    "region": "Middle East and North Africa",
+    "type": "Interstate",
+    "us_impact": "Significant",
+    "status": "Worsening",
+    "countries": [
+      "LB"
+    ],
+    "url": "https://www.cfr.org/global-conflict-tracker/conflict/conflict-hezbollah-lebanon"
+  },
+  {
+    "name": "Conflict in Syria",
+    "region": "Middle East and North Africa",
+    "type": "Civil War",
+    "us_impact": "Limited",
+    "status": "Worsening",
+    "countries": [
+      "SY"
+    ],
+    "url": "https://www.cfr.org/global-conflict-tracker/conflict/conflict-syria"
+  },
+  {
+    "name": "Instability in Afghanistan",
+    "region": "Asia",
+    "type": "Political Instability",
+    "us_impact": "Limited",
+    "status": "Worsening",
+    "countries": [
+      "AF"
+    ],
+    "url": "https://www.cfr.org/global-conflict-tracker/conflict/instability-afghanistan"
+  },
+  {
+    "name": "Instability in Pakistan",
+    "region": "Asia",
+    "type": "Political Instability",
+    "us_impact": "Limited",
+    "status": "Worsening",
+    "countries": [
+      "PK"
+    ],
+    "url": "https://www.cfr.org/global-conflict-tracker/conflict/instability-pakistan"
+  },
+  {
+    "name": "Tensions Between Armenia and Azerbaijan",
+    "region": "Europe and Eurasia",
+    "type": "Territorial Dispute",
+    "us_impact": "Limited",
+    "status": "Improving",
+    "countries": [
+      "AM",
+      "AZ"
+    ],
+    "url": "https://www.cfr.org/global-conflict-tracker/conflict/tensions-armenia-azerbaijan"
+  }
+]
