@@ -149,4 +149,5 @@ Thumbs.db
 *.json
 !requirements.txt
 !cfr_conflicts.json
+!cfr_conflicts.csv
 !conflict_additionals.txt
