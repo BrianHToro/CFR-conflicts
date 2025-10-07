@@ -1,0 +1,29 @@
+name,region,type,us_impact,status,countries
+Instability in the Northern Triangle,Americas,Political Instability,Significant,Unchanging,"['SV', 'GT', 'HN']"
+Instability in Haiti,Americas,Political Instability,Significant,Worsening,['HT']
+Civil War in Sudan,Middle East and North Africa,Civil War,Limited,Worsening,['SD']
+Violent Extremism in the Sahel,Middle East and North Africa,Transnational Terrorism,Limited,Worsening,"['BF', 'TD', 'ML', 'NE', 'NG']"
+Confrontation Over Taiwan,Asia,Interstate,Critical,Worsening,"['CN', 'TW']"
+Conflict in Ethiopia,Sub-Saharan Africa,Political Instability,Limited,Worsening,['ET']
+Iran's Conflict With Israel and the United States,Middle East and North Africa,Interstate,Critical,Worsening,['IR']
+U.S. Confrontation With Venezuela,Americas,Interstate,Limited,Unchanging,['VE']
+Conflict in Yemen and the Red Sea,Middle East and North Africa,Transnational Terrorism,Significant,Worsening,['YE']
+Conflict Between India and Pakistan,Asia,Interstate,Significant,Worsening,"['IN', 'PK']"
+Civil Conflict in Libya,Middle East and North Africa,Civil War,Limited,Unchanging,['LY']
+Conflict With Al-Shabaab in Somalia,Sub-Saharan Africa,Transnational Terrorism,Limited,Unchanging,['SO']
+Israeli-Palestinian Conflict,Middle East and North Africa,Territorial Dispute,Significant,Worsening,"['IL', 'PS']"
+Criminal Violence in Mexico,Americas,Criminal Violence,Significant,Unchanging,['MX']
+Conflict Between Turkey and Armed Kurdish Groups,Middle East and North Africa,Territorial Dispute,Limited,Improving,"['IQ', 'SY', 'TR']"
+Instability in Iraq,Middle East and North Africa,Political Instability,Limited,Worsening,['IQ']
+Instability in South Sudan,Sub-Saharan Africa,Political Instability,Limited,Unchanging,['SS']
+War in Ukraine,Europe and Eurasia,Interstate,Critical,Worsening,"['RU', 'UA']"
+North Korea Crisis,Asia,Interstate,Critical,Unchanging,['KP']
+Civil War in Myanmar,Asia,Civil War,Limited,Worsening,['MM']
+Territorial Disputes in the South China Sea,Asia,Territorial Dispute,Critical,Unchanging,"['BN', 'CN', 'ID', 'MY', 'PH', 'TW', 'VN']"
+Conflict in the Democratic Republic of Congo,Sub-Saharan Africa,Political Instability,Limited,Worsening,['CD']
+Conflict in the Central African Republic,Sub-Saharan Africa,Civil War,Limited,Unchanging,['CF']
+Conflict With Hezbollah in Lebanon,Middle East and North Africa,Interstate,Significant,Worsening,['LB']
+Conflict in Syria,Middle East and North Africa,Civil War,Limited,Worsening,['SY']
+Instability in Afghanistan,Asia,Political Instability,Limited,Worsening,['AF']
+Instability in Pakistan,Asia,Political Instability,Limited,Worsening,['PK']
+Tensions Between Armenia and Azerbaijan,Europe and Eurasia,Territorial Dispute,Limited,Improving,"['AM', 'AZ']"
